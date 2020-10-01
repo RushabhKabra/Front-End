@@ -115,6 +115,8 @@ headers
  .button-primary:hover{
 	 background: #3a3a3a;
 	 color: #fff;
+	 cursor:pointer;
+	 outline:none;
  }
 
  .button-secondary,
